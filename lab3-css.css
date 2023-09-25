@@ -1,0 +1,42 @@
+*{
+  background-color:hsla(303, 85%, 34%, 1)
+}
+h1{
+  color:blue;
+  background-color:#000000;
+  font-size: 20px;
+  text-align: center;
+}
+h2{
+  color:rgb(255, 255, 255);
+  background-color:hsl(132, 100%, 26%);
+  font-weight: bold; 
+  text-decoration: dotted;
+}
+h3{
+  color:yellow;
+  font-style:italic;
+  line-height: 1.35;
+  word-spacing: .75em;
+}
+p{
+  color:#23877F;
+  font-variant: small-caps;
+}
+ul{
+  background-color:#94C1CF;
+}
+ol{
+  color:lightgray;
+  background:hsl(293, 0%, 100%)
+}
+<!--rgb(160, 13, 153) and #a00d99-->
+em{
+    text-transform: uppercase;
+}
+strong{
+    text-shadow: 2px 2px 2px #000;
+}
+li{
+    letter-spacing: 0.05em;
+}
